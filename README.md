@@ -15,14 +15,13 @@ I’m Pranav Ray, cs undergrad (2028)
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pranav718&show_icons=true&theme=dark" alt="GitHub stats" />
+      <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=pranav718&show_icons=true&theme=dark" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=pranav718&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
+      <img width="350" height="200" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=pranav718&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### Social Media Profile
